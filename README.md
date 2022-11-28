@@ -9,5 +9,5 @@ docker image tag web:v6 manoj7shekhawat/web:v6
 docker image push manoj7shekhawat/web:v6
 ````
 
-After deploying k8s objects:
+After deploying k8s objects:</br>
 http://<EXTERNAL_IP of web service>:5000/
